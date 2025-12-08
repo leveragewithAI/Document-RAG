@@ -1,0 +1,4 @@
+unstructured==0.14.9
+unstructured[pdf]
+pdfminer.six==20221105
+dotenv
