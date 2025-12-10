@@ -15,8 +15,7 @@ def load_pdf(path: str):
 
     elements = partition_pdf(
         filename=path,
-        strategy="hi_res",
-        model_directory=os.getenv("MODEL_PATH"),
+        strategy="fast",
     )
 
     docs= []
