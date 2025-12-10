@@ -4,3 +4,4 @@ pdfminer.six==20221105
 dotenv
 langchain
 langchain_text_splitters
+pinecone
